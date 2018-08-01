@@ -1,0 +1,18 @@
+img {
+  width: 300px;
+  height: 200px;
+}
+
+.column {
+  width: 300px;
+  height: 350px;
+  float: left;
+  padding: 20px;
+  margin: 11px;
+  border: 20px solid pink;
+  background-color: grey;
+}
+
+h1 {
+  text-align: center;
+}
