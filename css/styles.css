@@ -1,3 +1,13 @@
+html, body {
+    margin: 0;
+    height: 100%;
+  }
+
+body {
+  font-family: cursive;
+  background: linear-gradient(to bottom right, #d9b989, white);
+}
+
 img {
   width: 300px;
   height: 200px;
@@ -11,6 +21,11 @@ img {
   margin: 11px;
   border: 20px solid pink;
   background-color: grey;
+}
+
+.column p {
+  font-weight: lighter;
+  color: white;
 }
 
 h1 {
